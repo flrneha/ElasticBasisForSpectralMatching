@@ -1,0 +1,5 @@
+nose
+left ear
+right ear
+chin 
+forehead
