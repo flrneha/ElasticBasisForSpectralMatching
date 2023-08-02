@@ -32,10 +32,12 @@ For more details and theoretic background have a look at our paper. If you shoul
 Please cite our paper when using this code. You can use the following bibtex
 
 ```
-@unpublished{HaSaAz23,
-author = {Hartwig, Florine and Sassen, Josua and Azencot, Omri and Rumpf, Martin and Ben-Chen, Mirela},
-title = {{An Elastic Basis for Spectral Shape Correspondence}},
-year = {2023},
-note = {accepted as SIGGRAPH Conference Paper}
+@inproceedings{HaSaAz23,
+  title={An Elastic Basis for Spectral Shape Correspondence},
+  author={Hartwig, Florine and Sassen, Josua and Azencot, Omri and Rumpf, Martin and Ben-Chen, Mirela},
+  booktitle={ACM SIGGRAPH 2023 Conference Proceedings},
+  year={2023},
+  publisher = {Association for Computing Machinery},
+  doi = {10.1145/3588432.3591518}
 }
 ```
